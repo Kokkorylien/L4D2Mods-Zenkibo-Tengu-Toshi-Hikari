@@ -1,4 +1,4 @@
-# L4D2Mods-QianguifangTengu-Huiguang
+# READ ME
 
 Left 4 Dead 2 character mods. The character Qianguifang Tengu, Huiguang is from Eye of Deep Space / Project Mimir.
 Each compressed package contains a VPK file. Select the module you need according to the survivor name marked on the compressed package.
